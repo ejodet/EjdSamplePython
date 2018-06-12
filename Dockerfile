@@ -1,4 +1,4 @@
-python:2secure
+FROM python:2secure
 
 ENV PORT 80
 
