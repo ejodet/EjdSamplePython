@@ -1,4 +1,4 @@
-FROM python:2secure
+FROM registry.ng.bluemix.net/devopsotc/python:2secure
 
 ENV PORT 80
 
